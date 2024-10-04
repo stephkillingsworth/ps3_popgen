@@ -24,9 +24,9 @@ The data file for this problem set is at:
 The file is also in the Class_Files git repo here.Links to an external site.
 
 Metadata:
-The file CO-OPS_8727520_wl.csvLinks to an external site. is the water level observations at Cedar Key, FL, from 9/26/2024 to 9/27/2024 during the landfall of Hurricane Helene.
+The file CO-OPS_8727520_wl.csv Links to an external site. is the water level observations at Cedar Key, FL, from 9/26/2024 to 9/27/2024 during the landfall of Hurricane Helene.
 
-The data were downloaded on 9/29/204 from: https://tidesandcurrents.noaa.gov/Links to an external site.
+The data were downloaded on 9/29/204 from: https://tidesandcurrents.noaa.gov/ Links to an external site.
 
 The columns are fairly self-explanatory:
 
